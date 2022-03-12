@@ -212,7 +212,7 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Ramdani Syaputra 2020</span>
+            <span>Copyright &copy; PKS Digital School</span>
           </div>
         </div>
       </footer>
