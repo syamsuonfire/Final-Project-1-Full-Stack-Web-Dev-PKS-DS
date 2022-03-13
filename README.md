@@ -20,7 +20,7 @@
 <h1>Link Video</h1>
 
 <p>
-Link Demo Aplikasi : https://syamsuonfire.sanbercodeapp.com/l</p>
+Link Demo Aplikasi : https://syamsuonfire.sanbercodeapp.com/</p>
 <p>
 Link Deploy : </p>
 <p>email : admin@admin.com
