@@ -1,5 +1,7 @@
 <h1>Tutorial</h1>
 
+<img src = "./ERD.jpg">
+
 <ol>
 <li>composer install</li>
 <li>php artisan migrate</li>
