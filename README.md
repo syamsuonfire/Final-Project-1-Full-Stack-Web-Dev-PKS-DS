@@ -5,7 +5,7 @@
 <h1>Anggota Kelompok</h1>
 
 <ul>
-<li>Lukman Prasetya (@lukman2008)</li>
+<li>Lukman Prasetya (@LukmanPrasetya)</li>
 <li>Syamsu Rijal Efendi (@syamsuonfire)</li>
 <li>Wili Lian Pangestu (@wiliLian)</li>
 </ul>
