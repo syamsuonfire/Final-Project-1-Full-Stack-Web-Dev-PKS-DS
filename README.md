@@ -5,9 +5,9 @@
 <h1>Anggota Kelompok</h1>
 
 <ul>
-<li>Lukman Prasetya</li>
-<li>Syamsu Rijal Efendi</li>
-<li>Wili Lian Pangestu</li>
+<li>Lukman Prasetya (@lukman2008)</li>
+<li>Syamsu Rijal Efendi (@syamsuonfire)</li>
+<li>Wili Lian Pangestu (@wiliLian)</li>
 </ul>
 
 <h1>Tema Project</h1>
