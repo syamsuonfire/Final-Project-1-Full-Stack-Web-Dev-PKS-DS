@@ -11,16 +11,16 @@
 </ul>
 
 <h1>Tema Project</h1>
+<p>Aplikasi Kasir Barang</p>
 
 <h1>ERD</h1>
-
 <p align="center">
 ![alt text](https://gitlab.com/LukmanPrasetya/project-1-fullstack/-/raw/master/ERD.JPG?raw=true)</p>
 
 <h1>Link Video</h1>
 
 <p>
-Link Demo Aplikasi : </p>
+Link Demo Aplikasi : https://syamsuonfire.sanbercodeapp.com/l</p>
 <p>
 Link Deploy : </p>
 <p>email : admin@admin.com
