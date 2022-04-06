@@ -15,7 +15,7 @@
 
 <h1>ERD</h1>
 <p align="center">
-![ScreenShot](https://github.com/syamsuonfire/Final-Project-1-Full-Stack-Web-Dev-PKS-DS/blob/master/ERD.JPG?raw=true)</p>
+![image.png](https://github.com/syamsuonfire/Final-Project-1-Full-Stack-Web-Dev-PKS-DS/blob/master/ERD.JPG?raw=true)</p>
 
 <h1>Link Video</h1>
 
