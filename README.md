@@ -15,7 +15,11 @@
 
 <h1>ERD</h1>
 <p align="center">
+<<<<<<< HEAD
 <img src="https://github.com/syamsuonfire/Final-Project-1-Full-Stack-Web-Dev-PKS-DS/blob/master/ERD.JPG?raw=true"></p>
+=======
+![alt text](https://gitlab.com/LukmanPrasetya/Final-Project-1-Full-Stack-Web-Dev-PKS-DS/-/raw/master/ERD.JPG?raw=true)</p>
+>>>>>>> 80c46b44b308af2e09992e1cb3a2855d9c5be943
 
 <h1>Link Video</h1>
 
